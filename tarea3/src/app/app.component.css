@@ -1,0 +1,21 @@
+
+.h1{
+    color: aliceblue;
+}
+.form-control{
+    border: none;
+  
+}
+
+.btn{
+    background-color: rgb(130, 205, 17);
+    color: aliceblue;
+}
+.card{
+    background-color: rgb(221, 255, 255);
+    height: 130px ;
+    border-left-color:blue ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
